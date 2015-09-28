@@ -1,8 +1,8 @@
 [
   {
-    "repository": "TheMuppets/proprietary_vendor_motorola",
+    "repository": "TheLoonyBin/proprietary_vendor_motorola",
     "target_path": "vendor/motorola",
-    "branch": "cm-12.1"
+    "branch": "lp5.1"
   },
   {
     "repository": "SlimRoms/kernel_motorola_shamu",
